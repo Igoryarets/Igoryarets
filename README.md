@@ -16,7 +16,12 @@
 ## 🛠 Technical Stack
 *   Python/Django/DRF/
 *   PostgreSQL, SQLlite3
-*   GitHub
+*   GitHub, Nginx, Gunicorn
+
+
+## 🛠 Tools
+*   Postman
+*   Docker
 
 
 <div align="center" style="margin: 40px 0">
