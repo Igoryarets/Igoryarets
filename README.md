@@ -41,5 +41,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=Postgresql&logoColor=white&color=4AB197)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3455e365a3241e2e6faf003825035a59e1c41a4c
 
