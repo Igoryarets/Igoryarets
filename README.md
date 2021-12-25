@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Igoryarets">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoryarets&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igoryarets)
 
-<a href="https://github.com/Igoryarets">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Igoryarets&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Igoryarets GitHub Stats" />
-</a>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+
 
 
 <!-- Skills -- >
 
-## 💼 Skills
+## 💼 Language and Tools
 
 [](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=Postgresql&logoColor=white&color=4AB197)
 
-...
+
 
