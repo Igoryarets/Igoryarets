@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=Postgresql&logoColor=white&color=4AB197)
 
-...
 
