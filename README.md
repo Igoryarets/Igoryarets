@@ -3,9 +3,9 @@
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=Igoryarets&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=Igoryarets&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats-sigma-five.vercel.app/api?username=Igoryarets&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/Igoryarets/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoryarets&layout=compact"/></a>
+                                                                  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Igoryarets&layout=compact"/></a>
 </p>
 
 <p align='left'>
